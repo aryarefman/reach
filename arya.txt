@@ -1,2 +1,25 @@
 ## DAY 1 (7 Juli 2025)
 - Dicoding (Machine Learning-Belajar Visualisasi Data-Operator pada Spreadsheet)
+
+## DAY 2 (8 Juli 2025)
+- Dicoding (Machine Learning-Belajar Visualisasi Data-Tips Pivot Table)
+
+## DAY 3 (9 Juli 2025)
+
+## DAY 4 (10 Juli 2025)
+- Dicoding (Machine Learning-Belajar Visualisasi Data-Penutup)
+
+## DAY 5-24 (11-30 Juli 2025)
+
+## DAY 25 (31 Juli 2025)
+- Dicoding (Machine Learning-Memulai Pemograman dengan Python-Berinteraksi dengan Data(Tipe Data))
+
+## DAY 26-28(1-3 Agustus 2025)
+
+## DAY 29(4 Agustus 2025)
+- Dicoding (Machine Learning-Memulai Pemograman dengan Python-Ekspresi)
+
+## DAY 30(5 Agustus 2025)
+
+## DAY 31(6 Agustus 2025)
+- Dicoding (Machine Learning-Memulai Pemograman dengan Python-Control Flow(Penanganan Kesalahan))
